@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NathanWease/NathanWease.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I can use the [editor on GitHub](https://github.com/NathanWease/NathanWease.github.io/edit/master/README.md) to maintain and preview the content for my profile.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in the site, from the content in the Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
